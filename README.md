@@ -1,7 +1,6 @@
 # Dogatopia
 Bringing PetFi to the metaverse by combining finance, community, and independently validated information through oracle integration.
 
-DOGATOPIA
 DOGATOPIA is a revolutionary, Web3 project dedicated to advancing the health and life span of our beloved canine companions. Our community is bringing the power of blockchain technology to aggregate and validate critical information around dog care and companionship. Unlike other projects, Dogotopia is a truly decentralized, global community of dog lovers who are passionate about taking care and connection to the next level.
  
 So, get ready - Dogatopia is about to unleash a dog lover's platform that is unlike anything you've seen before!
